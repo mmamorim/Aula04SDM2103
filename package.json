@@ -1,0 +1,22 @@
+{
+  "name": "aula04sdm2103",
+  "version": "1.0.0",
+  "description": "Aula04SDM2103",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mmamorim/Aula04SDM2103.git"
+  },
+  "author": "Marcelo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mmamorim/Aula04SDM2103/issues"
+  },
+  "homepage": "https://github.com/mmamorim/Aula04SDM2103#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
